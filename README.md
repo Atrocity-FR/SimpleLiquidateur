@@ -1,0 +1,1 @@
+Simple script en Python pour supprimer des données d'un fichier1 vers un fichier2 déjà existant
